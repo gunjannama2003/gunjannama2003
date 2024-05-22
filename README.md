@@ -1,7 +1,10 @@
-<hl align="center">Hi I'm Gunjan Nama</hl>
-<h3 passionate software Developer Engineer from India</h3>
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="450px" align="right" alt="">
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Gunjan Nama</h1>
+<h3 align="center">A passionate software Developer Engineer from India</h3>
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="250px" align="right" alt="">
+
+[![](https://visitcount.itsvg.in/api?id=gunjannama2003&icon=0&color=12)](https://visitcount.itsvg.in)
+
+💫 About Me: <br>
 🔭 I’m currently building Projects.<br>🌱 I’m currently learning more about ML.<br>👯 I’m looking to collaborate on Projects.<br>💬 Ask me about ML or any tech-related stuff.<br>📫 You can reach me at: gunjannama761@gmail.com
 
 
@@ -19,6 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=gunjannama2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gunjannama2003&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
