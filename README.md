@@ -1,3 +1,5 @@
+
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" alt="">
 # 💫 About Me:
 🔭 I’m currently building Projects.<br>🌱 I’m currently learning more about ML.<br>👯 I’m looking to collaborate on Projects.<br>💬 Ask me about ML or any tech-related stuff.<br>📫 You can reach me at: gunjannama761@gmail.com
 
