@@ -1,5 +1,6 @@
-
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" alt="">
+<hl align="center">Hi I'm Gunjan Nama</hl>
+<h3 passionate software Developer Engineer from India</h3>
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="450px" align="right" alt="">
 # 💫 About Me:
 🔭 I’m currently building Projects.<br>🌱 I’m currently learning more about ML.<br>👯 I’m looking to collaborate on Projects.<br>💬 Ask me about ML or any tech-related stuff.<br>📫 You can reach me at: gunjannama761@gmail.com
 
